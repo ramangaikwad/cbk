@@ -1,0 +1,45 @@
+.content{
+	margin: 40px;
+	font-family:Open Sans, Droid Sans, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	max-width: 800px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:Open Sans, Droid Sans, sans-serif;
+}
+
+.content li{
+	line-height: 26px;
+	margin-left: 25px;
+}
+
+hr {
+	margin: 30px 0;
+}
+
+@media only screen and (max-device-width: 600px) {
+	.content {
+		margin: 0px;
+	}
+}
+
+/* Remove print links from navbar
+ * Elsewhere they look OK
+ * */
+@media print {
+	.navbar a[href]:after {
+		content: none !important;
+	}
+
+	a[href] {
+		text-decoration: underline;
+	}
+
+	.content {
+		font-size: 12px;
+	}
+
+}

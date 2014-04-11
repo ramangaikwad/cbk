@@ -3,7 +3,6 @@ title: Case Report 2012/W52
 layout: page
 ---
 
-#### FUO with hip pain
 #### A 30 year old female with SLE presenting with tricuspid endocarditis
 A 30 year female diagnosed with systemic lupus erythematosus and lupus nephritis presented with low grade fever and malaise since 1 month. A 2D echocardiogram showed multiple tricuspid valve vegetations. Erysipelothrix rhusiopathiae was isolated from three sets of blood cultures. The organism was sensitive to penicillin and to ceftriaxone. The patient was started on ceftriaxone 2g IV once daily for 4 weeks. 
 

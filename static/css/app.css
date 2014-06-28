@@ -39,6 +39,10 @@ hr {
 		content: none !important;
 	}
 
+	.navbar .nav {
+		display: none;
+	}
+
 	a[href] {
 		text-decoration: underline;
 	}

@@ -18,3 +18,21 @@ Oral prednisolone was continued in tapering doses, with patient remaining free o
 **Dapsone Hypersensitivity Syndrome**
 
 ---------------------------------------
+
+#### A 20 year old man with buttock pain
+
+A 20 year old man went to his general practitioner with symptoms of fever, malaise and coryza. Symptomatic treatment was advised and intramuscular diclofenac was administered in the right buttock. The patient developed pain in the right buttock next day and was admitted in the evening to another hospital, where local cellulitis at the injection site was diagnosed. Broad spectrum antibiotics (piperacillin-tazobactam, metronidazole, amikacin) were administered.
+
+However over the next few hours, pain worsened and area of cellulitis extended. Crepitus was noted. The patient was transferred to this hospital for further management.
+
+At admission, the patient was hypotensive, and tachypneic. Extensive areas of necrotic skin with blebs were noted over the right buttock, right thigh and lower abdomen. Extensive crepitus was noted over the abdomen, chest and lower limbs. Meropenem, vancomycin, penicillin G and clindamycin were administered. Urgent surgical debridement was planned; however patient developed intractable hypotension and cardiac arrest, and could not be revived despite resuscitation efforts.
+
+!(Gas Gangrene)[images/cases.2014.16.gas_gangrene.jpg]
+
+A gram stain of the serosanguineous aspirate from skin bleb on the thigh showed sparse gram positive bacilli.
+
+!(Gram Stain)[images/cases.2014.16.gram_stain.jpg]
+
+**Clostridial Gas Gangrene (Myonecrosis)**
+
+----------------------------------------

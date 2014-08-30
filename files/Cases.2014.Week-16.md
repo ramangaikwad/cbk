@@ -27,11 +27,11 @@ However over the next few hours, pain worsened and area of cellulitis extended. 
 
 At admission, the patient was hypotensive, and tachypneic. Extensive areas of necrotic skin with blebs were noted over the right buttock, right thigh and lower abdomen. Extensive crepitus was noted over the abdomen, chest and lower limbs. Meropenem, vancomycin, penicillin G and clindamycin were administered. Urgent surgical debridement was planned; however patient developed intractable hypotension and cardiac arrest, and could not be revived despite resuscitation efforts.
 
-!(Gas Gangrene)[images/cases.2014.16.gas_gangrene.jpg]
+![Gas Gangrene][images/cases.2014.16.gas_gangrene.jpg]
 
 A gram stain of the serosanguineous aspirate from skin bleb on the thigh showed sparse gram positive bacilli.
 
-!(Gram Stain)[images/cases.2014.16.gram_stain.jpg]
+![Gram Stain][images/cases.2014.16.gram_stain.jpg]
 
 **Clostridial Gas Gangrene (Myonecrosis)**
 
